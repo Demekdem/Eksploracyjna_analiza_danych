@@ -83,7 +83,7 @@ ZX4: Comments (Komentarze)
 
 
 
-1. Skupienie 1 (26 postów) - "Gwiazdy"
+1. Skupienie 1 (26 postów) - "Top influencerzy"
 
 Platforma: Głównie Twitter i YouTube
 
@@ -93,7 +93,7 @@ Formaty: Mieszanka - live, posty, tweety, shortsy
 
 Charakter: Posty o wysokim zasięgu i polubieniach, ale umiarkowanym zaangażowaniu
 
-2. Skupienie 2 (14 postów) - "Prowokatorzy"
+2. Skupienie 2 (14 postów) - "Wywołujący dyskusję"
 
 Platforma: Równomierny rozkład (głównie YouTube, TikTok)
 
@@ -103,7 +103,7 @@ Formaty: Dominują krótkie filmy (Shorts, Reel)
 
 Charakter: Mało polubień, ale dużo udostępnień i komentarzy - wywołują dyskusje
 
-3. Skupienie 3 (57 postów) - "Cichy Tłum"
+3. Skupienie 3 (57 postów) - "Nisza"
 
 Platforma: Wszystkie platformy (najwięcej YouTube, Twitter)
 
@@ -115,6 +115,6 @@ Charakter: Niskie wyniki we wszystkich wskaźnikach - typowe posty bez dużego o
 
 ## Wnioski:
 
-Analiza pokazuje, że skuteczność postów zależy od połączenia platformy, formatu i tematyki. "Gwiazdy" działają na Twitterze/YouTube, "Prowokatorzy" wykorzystują krótkie filmy o kontrowersyjnych tematach, a większość treści po prostu nie zdobywa znaczącej popularności.
+Analiza pokazuje, że skuteczność postów zależy od kombinacji platformy, formatu i tematyki. Top Influencerzy osiągają wysokie zasięgi na Twitterze i YouTube, Wywołujący dyskusję wykorzystują krótkie filmy, które generują komentarze i udostępnienia, natomiast większość treści z grupy Nisza nie zdobywa większego odzewu.
 
 
